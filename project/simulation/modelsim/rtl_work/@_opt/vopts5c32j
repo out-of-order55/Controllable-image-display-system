@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Legion\Desktop\ov5640_hdmi_1280x720\project\simulation\modelsim
+T_opt
+Vg;m6LLD>ZdnB`Z=P;55We3
+04 11 4 work tb_vga_ctrl fast 0
+=1-f875a4af3dcd-63f4b078-388-32f8
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.1c;51
+vtb_vga_ctrl
+IVCzNZda6gZOVY0]1BeNzP1
+VU>2DcdH@RK15HZ_cgW0?[0
+Z1 dC:\Users\Legion\Desktop\ov5640_hdmi_1280x720\project\simulation\modelsim
+w1676980329
+8C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/project/../sim/tb_vga_ctrl.v
+FC:/Users/Legion/Desktop/ov5640_hdmi_1280x720/project/../sim/tb_vga_ctrl.v
+L0 2
+Z2 OL;L;10.1c;51
+r1
+31
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 zIkA7]ZeGgF:7l]M3az:J1
+!s85 0
+!s108 1676980344.694000
+!s107 C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/project/../sim/tb_vga_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/project/../sim|C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/project/../sim/tb_vga_ctrl.v|
+!s92 -vlog01compat -work work +incdir+C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/project/../sim -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vvga_ctrl
+Il_2@gP8BfagWhGN[a6AJf3
+V`m8B7G[0U]^PXP^GTh@2M1
+R1
+w1676979930
+8C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/rtl/vga_ctrl.v
+FC:/Users/Legion/Desktop/ov5640_hdmi_1280x720/rtl/vga_ctrl.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 4kMD083Ii7JN0:bD@WhOJ2
+!s85 0
+!s108 1676980344.634000
+!s107 C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/rtl/vga_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/rtl|C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/rtl/vga_ctrl.v|
+!s92 -vlog01compat -work work +incdir+C:/Users/Legion/Desktop/ov5640_hdmi_1280x720/rtl -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF

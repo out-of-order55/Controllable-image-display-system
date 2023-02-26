@@ -1,0 +1,261 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sccb_scl",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_ras_n",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_cas_n",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_we_n",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_ba[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_ba[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[8]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[9]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[10]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[11]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_addr[12]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_clk_p",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_clk_n",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_p[0]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_p[1]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_p[2]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_n[0]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_n[1]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_n[2]",
+					"strict" : false
+				},
+				{
+					"name" : "tx",
+					"strict" : false
+				},
+				{
+					"name" : "sd_cs_n",
+					"strict" : false
+				},
+				{
+					"name" : "sd_mosi",
+					"strict" : false
+				},
+				{
+					"name" : "sccb_sda",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[7]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[8]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[9]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[10]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[11]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[12]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[13]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[14]",
+					"strict" : false
+				},
+				{
+					"name" : "sdram_dq[15]",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "sys_clk",
+					"strict" : false
+				},
+				{
+					"name" : "sd_miso",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_pclk",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_vsync",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_href",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ov5640_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "key_in",
+					"strict" : false
+				},
+				{
+					"name" : "rx",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
